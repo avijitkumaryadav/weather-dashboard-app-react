@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./src/images/background.jpg" width="100%">
+<img src="./src/images/background.jpg" width="100%" alt="Summer">
 </p>
 
 <p align="center">
