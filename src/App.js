@@ -14,7 +14,7 @@ function App() {
         </a>{" "}
         | Developed by{" "}
         <a target="_blank" href="https://www.linkedin.com/in/avijitkumaryadav">
-          Gaurav Ghai
+          Avijit Kumar Yadav
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://developer.mozilla.org/en-US/">
