@@ -12,5 +12,5 @@
 ## Setup
 
 ```
-npm i && export NODE_OPTIONS=--openssl-legacy-provider $$ npm start
+npm i && export NODE_OPTIONS=--openssl-legacy-provider && npm start
 ```
